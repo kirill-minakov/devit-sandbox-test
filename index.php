@@ -1,14 +1,6 @@
 <?php
-	session_start();
+require('header.php');
 ?>
-
-
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Авторизация и регистрация</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
-</head>
 <body>
 
 
